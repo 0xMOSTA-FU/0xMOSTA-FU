@@ -8,7 +8,7 @@
 - 🛡️ Cyber Security Tutor @ [AlGooru](https://algooru.com) 🇸🇦
 - 🏆 Blue Team Leader @ IEEE HTI Student Branch
 - 🧠 Interested in Malware Analysis and Reverse Engineering
-- 💻 Backend Developer using **PHP** @ ITI Internship
+- 💻 Backend Developer using **PHP** @ ITI Training
 - 📚 Content Creator on [YouTube](https://www.youtube.com/@mostaff3663/videos)
 - 🎯 Top 1% @ TryHackMe | Regular CTF Player
 - 📡 SOC Intern @ AMIT, WE INNOVATE, Srida IT
