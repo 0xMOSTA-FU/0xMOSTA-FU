@@ -90,6 +90,15 @@
 ![SOC Analyst](https://img.shields.io/badge/SOC%20Analyst-6C757D?logo=shield&logoColor=white)
 ![Basic Networking](https://img.shields.io/badge/Networking-1F618D?logo=network-wired&logoColor=white)
 ![Basic Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+[![Blue Team Labs Online](https://img.shields.io/badge/BTLO-Paranoid%20Challenge-0052CC?logo=windows&logoColor=white)](https://blueteamlabs.online/)
+[![Cybersecurity Tutor](https://img.shields.io/badge/AlGooru-Tutor-blueviolet?logo=bookstack&logoColor=white)](https://www.linkedin.com/company/algooru/)
+[![Incident Response](https://img.shields.io/badge/Incident%20Response-DFIR-orange?logo=splunk&logoColor=white)]()
+[![SOC Playbook](https://img.shields.io/badge/SOC%20Playbook-In%20Progress-success?logo=github&logoColor=white)](https://github.com/MostafaEssam/SOC-Playbook)
+[![IEEE](https://img.shields.io/badge/IEEE%20HTI-Student%20Branch-0072C6?logo=ieee&logoColor=white)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)]()
+[![Laravel](https://img.shields.io/badge/Laravel-E74430?logo=laravel&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)]()
+[![Web Dev](https://img.shields.io/badge/ITI-Web%20Development-red?logo=internetexplorer&logoColor=white)]()
 
 ---
 
