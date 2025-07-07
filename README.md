@@ -90,7 +90,7 @@
 ![SOC Analyst](https://img.shields.io/badge/SOC%20Analyst-6C757D?logo=shield&logoColor=white)
 ![Basic Networking](https://img.shields.io/badge/Networking-1F618D?logo=network-wired&logoColor=white)
 ![Basic Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-[![Blue Team Labs Online](https://blueteamlabs.online/)
+[![Blue Team Labs Online](https://img.shields.io/badge/)](https://blueteamlabs.online/)
 [![Cybersecurity Tutor](https://img.shields.io/badge/AlGooru-Tutor-blueviolet?logo=bookstack&logoColor=white)](https://www.linkedin.com/company/algooru/)
 [![Incident Response](https://img.shields.io/badge/Incident%20Response-DFIR-orange?logo=splunk&logoColor=white)]()
 [![SOC Playbook](https://img.shields.io/badge/SOC%20Playbook-In%20Progress-success?logo=github&logoColor=white)](https://github.com/MostafaEssam/SOC-Playbook)
